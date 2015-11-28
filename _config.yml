@@ -33,7 +33,7 @@ github_username: zakrywilson
 bitbucket_username:
 stackoverflow_id:
 twitter_username: zakrywilson
-google_plus_id: zakrywilson
+google_plus_id:
 linkedin_username: zakrywilson
 angellist_username: ZachWilson
 medium_id:
@@ -52,7 +52,7 @@ share_googleplus: false
 share_linkedin: false
 share_digg: false
 share_tumblr: false
-share_reddit: false
+share_reddit: true
 share_stumbleupon: false
 share_hackernews: false
 
