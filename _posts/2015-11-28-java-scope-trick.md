@@ -23,4 +23,4 @@ This would be considered by myself and others as bad programming.
 I have seen where some Java interviewers will ask about this feature---and also it's just pretty cool.
 
 ### Alternative approaches
-If you find yourself in a situation like this, try breaking your code up into smaller parts, using`return` statements.
+If you find yourself in a situation like this, try breaking your code up into smaller parts, using `return` statements.
