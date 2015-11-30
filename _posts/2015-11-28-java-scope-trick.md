@@ -10,11 +10,11 @@ categories: Java
 A lot of Java developers don't know that you can create scopes with named blocks. Not every block needs to be created alongside something such as a loop or a method definition---Java actually allows programmers to define their own scope which can provide programmers some interesting freedom.
 
 ## Example
-![With brackets](http://i.imgur.com/DQvzs7r.png)
+![Blocks with brackets](http://i.imgur.com/uHvIOoL.png)
 
 It also works without brackets if you prefer it that way.
 
-![Without brackets](http://i.imgur.com/8qwGSCu.png)
+![Blocks without brackets](http://i.imgur.com/pQPZ1Qv.png)
 
 ## Disclosure
 This would be considered by myself and others as bad programming.
