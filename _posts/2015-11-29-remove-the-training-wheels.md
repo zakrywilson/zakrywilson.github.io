@@ -1,7 +1,7 @@
 ---
-layout:		post
-title:			Remove the training wheels (use VIM)
-date:			2015-11-29 14:57
+layout:		  post
+title:			Remove the training wheels and use VIM
+date:			  2015-11-29 14:57
 summary:		Why I use VIM, how to become faster using it, and a cool trick I learned to take your VIM mastery to the next level
 categories:	VIM
 ---
