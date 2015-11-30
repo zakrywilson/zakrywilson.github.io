@@ -88,12 +88,13 @@ h3, h4, h5, h6 {
 }
 
 a {
-  color:#39c;
+  color:#51CCAD;
   text-decoration:none;
 }
 
 a:hover {
   color:#069;
+  text-decoration:none;
 }
 
 a small {
@@ -101,10 +102,12 @@ a small {
   color:#777;
   margin-top:-0.3em;
   display:block;
+  text-decoration:none;
 }
 
 a:hover small {
   color:#777;
+  text-decoration:none;
 }
 
 .wrapper {

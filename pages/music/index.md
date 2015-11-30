@@ -4,4 +4,4 @@ title: Music
 permalink: /music/
 ---
 
-Here is where I will show my music stuff...
+*Posts still to come...*

@@ -29,6 +29,8 @@ I think that for any programmer who wants to become more well-versed in any lang
 ## My VIM settings
 Now I'm no hardcore VI guy: I use VIM and I have a decent amount of customization that makes things a little less old-school. If you want to try out my settings, you can find them [here](https://github.com/zakrywilson/vim-customization).
 
+![My .vimrc](http://i.imgur.com/PPz9PBD.png)
+
 #### Small intro to the .vimrc file
 For those of you who don't know this, inside your home directory, you can customize your VIM settings by editing/adding the `.vimrc` file. In this file, you can specify tab sizing, whether or not you want line numbers or syntax highlighting, etc.
 
