@@ -31,7 +31,7 @@ Now I'm no hardcore VI guy: I use VIM and I have a decent amount of customizatio
 
 ![My .vimrc](http://i.imgur.com/PPz9PBD.png)
 
-#### Small intro to the .vimrc file
+#### A very small intro to the .vimrc file
 For those of you who don't know this, inside your home directory, you can customize your VIM settings by editing/adding the `.vimrc` file. In this file, you can specify tab sizing, whether or not you want line numbers or syntax highlighting, etc.
 
 #### My preferred color scheme
@@ -44,7 +44,7 @@ If you want to really take your VIM skills to the next level and---in the end---
 * Remove mouse/track-pad scrolling ability
 * Remove ability to hold down navigation keys
 
-You don't need arrow keys: use the navigation keys that are already under your fingers: `h`, `j`, `k`, and `l`. The navigation keys are great for jumping over characters, but they were not intended to be the only method for navigating your file. There are much better alternatives such as `w` to jump forward one word and `b` to jump backwards one word and `$` to jump to the end of the line and `^` to jump to the beginning. There are many different commands to move around in VIM. If you want to learn more, [this](http://vim.rtorr.com/) might be a good starting point.
+You don't need arrow keys: use the navigation keys that are already under your fingers: `h`, `j`, `k`, and `l`. The navigation keys are great for jumping over characters, but they were not intended to be the *only* method for navigating your file. There are much better alternatives such as `w` to jump forward one word and `b` to jump backwards one word and `$` to jump to the end of the line and `^` to jump to the beginning. There are many different commands to move around in VIM. If you want to learn more, [this](http://vim.rtorr.com/) might be a good starting point. So the hack to remove the ability to repeatedly press `h`, `j`, `k`, and `l` is to remove the ability to press `hh`, `jj`, `kk`, and `ll`. It's not ideal, but it's helpful to use for a week or so to break the habit.
 
 ## Conclusion
 Starting off with VIM is a steep learning curve---steep enough that most people give up, but it's worth it. In time, you'll become faster on the keyboard. It's worth giving it a shot... so try it.
