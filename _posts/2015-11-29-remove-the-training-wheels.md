@@ -2,7 +2,7 @@
 layout:		  post
 title:			Remove the training wheels and use VIM
 date:			  2015-11-29 14:57
-summary:		Why I use VIM, how to become faster using it, and a cool trick I learned to take your VIM mastery to the next level
+summary:		Why I use VIM, why you should use it, and how to become faster with it
 categories:	VIM
 ---
 
@@ -44,7 +44,7 @@ If you want to really take your VIM skills to the next level and---in the end---
 * Remove mouse/track-pad scrolling ability
 * Remove ability to hold down navigation keys
 
-You don't need arrow keys: use the navigation keys that are already under your fingers: `h`, `j`, `k`, and `l`. The navigation keys are great for jumping over characters, but they were not intended to be the *only* method for navigating your file. There are much better alternatives such as `w` to jump forward one word and `b` to jump backwards one word. There are also commands such as `$` to jump to the end of the line and `^` to jump to the beginning. There are many different commands to move around in VIM. If you want to learn more, [this](http://vim.rtorr.com/) might be a good starting point. So the hack to remove the ability to repeatedly press `h`, `j`, `k`, and `l` is to remove the ability to press `hh`, `jj`, `kk`, and `ll`. It's not ideal, but it's helpful to use for a week or so to break the habit.
+You don't need arrow keys: use the navigation keys that are already under your fingers: `h`, `j`, `k`, and `l`. The navigation keys are great for jumping over characters, but they were not intended to be the *only* method for navigating your file. There are much better alternatives such as `w` to jump forward one word and `b` to jump backwards one word. There are also commands such as `$` to jump to the end of the line and `^` to jump to the beginning. There are many different commands to move around in VIM. If you want to learn more, [this](http://vim.rtorr.com/) might be a good starting point. There exists a plugin for VIM called [hard mode](https://github.com/wikitopian/hardmode) that disables the ability to use things like arrow keys and h, j, k, and l. The reason for this is that there are far better ways of navigating when you're writing code than using the arrow keys or your mouse. The problem is, you need to kick the habit so you can fully embrace the power of VIM.
 
 I think another feature people who are new to VIM are not aware of is that VIM does almost everything you would want out of an editor. For example, `:4,22 >` will indent lines 4 through 22 by one tab. There are more goodies like this, you just need to look, and you'll find them. 
 
