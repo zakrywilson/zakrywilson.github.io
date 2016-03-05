@@ -27,7 +27,7 @@ Now, thanks to lambda expressions, if the interface only requires one method to 
 
 {% highlight java %}
 button.addActionListener(event -> {
-      doWhatButtonsDo();
+  doWhatButtonsDo();
 });
 {% endhighlight %}
 
