@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      One thing I really love about Java 8
+title:      One small thing I really love about Java 8
 date:       2016-03-04 23:44
 summary:    A one of the things lambda expressions do to make your life easier
 categories: Java
