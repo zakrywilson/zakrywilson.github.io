@@ -12,7 +12,7 @@ I'm sure we all have seen something like this a million times.
 
 {% highlight java %}
 if (myString != null && !myString.equals("")) {
-  // Do stuff
+    // Do stuff
 }
 {% endhighlight %}
 
@@ -21,7 +21,7 @@ You have a string that was initialized to null, but then there is also a case wh
 {% highlight java %}
 if ((a != null && !a.equals("")) && 
     (b != null && !b.equals(""))) {
-  // Do stuff
+    // Do stuff
 }
 {% endhighlight %}
 
