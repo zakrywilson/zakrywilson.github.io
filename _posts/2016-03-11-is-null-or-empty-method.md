@@ -44,7 +44,7 @@ public static boolean isNullOrEmpty(String... strings) {
 Now let's look at the difference.
 
 {% highlight java %}
-if (isNullOrEmpty(a, b)) {
+if (!isNullOrEmpty(a, b)) {
     // Do stuff
 }
 {% endhighlight %}
