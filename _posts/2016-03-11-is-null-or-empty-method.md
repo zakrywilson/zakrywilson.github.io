@@ -20,7 +20,8 @@ You have a string that was initialized to null, but then there is also a case wh
 
 {% highlight java %}
 if ((a != null && !a.equals("")) && 
-    (b != null && !b.equals(""))) {
+    (b != null && !b.equals("")) && 
+    (c != null && !c.equals(""))) {
     // Do stuff
 }
 {% endhighlight %}
@@ -44,7 +45,7 @@ public static boolean isNullOrEmpty(String... strings) {
 Now let's look at the difference.
 
 {% highlight java %}
-if (!isNullOrEmpty(a, b)) {
+if (!isNullOrEmpty(a, b, c)) {
     // Do stuff
 }
 {% endhighlight %}
