@@ -11,7 +11,8 @@ categories: Java
 I'm sure we all have seen something like this a million times.
 
 {% highlight java %}
-if (myString != null && !myString.equals("")) {
+// First check my string
+if (a != null && !a.equals("")) {
     // Do stuff
 }
 {% endhighlight %}
@@ -35,9 +36,10 @@ Here is a great way to beat the redundancy.
 {% highlight java %}
 public static boolean isNullOrEmpty(String... strings) {
     for (String string : strings) {
-        if  (string == null || string.equals(""))
+        if  (string == null || string.equals("")) {
             return true;
-        } 
+        }
+    } 
     return false;
 }
 {% endhighlight %}
@@ -50,4 +52,4 @@ if (!isNullOrEmpty(a, b, c)) {
 }
 {% endhighlight %}
 
-Not ground-breaking, but it might just make things a little easier and cleaner.
+Not groundbreaking, but it might just make things a little easier and cleaner.
