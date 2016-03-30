@@ -17,7 +17,7 @@ if (a != null && !a.equals("")) {
 }
 {% endhighlight %}
 
-You have a string that was initialized to null, but then there is also a case where it might be empty. This can sometimes result if you having to check multiple fields to ensure that you have correct data.
+You have a string that was initialized to null, but then there is also a case where it might be empty. This can sometimes result in you having to check multiple fields to ensure that you have correct data.
 
 {% highlight java %}
 if ((a != null && !a.equals("")) && 
