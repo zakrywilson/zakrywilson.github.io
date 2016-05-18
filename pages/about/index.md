@@ -27,7 +27,7 @@ Other hobbies of mine are playing soccer, reading about new sciences and technol
 ### My goals
 
 
-I've always had large goals as a kid – from wanting to be a professional soccer player for [Manchester United](https://en.wikipedia.org/wiki/Manchester\_United\_F.C.) to producing music with [Doctor Luke](https://en.wikipedia.org/wiki/Dr.\_Luke). 
+I've always had large goals as a kid – from wanting to be a professional soccer player for [Manchester United](https://en.wikipedia.org/wiki/Manchester_United_F.C.) to producing music with [Doctor Luke](https://en.wikipedia.org/wiki/Dr._Luke). 
 
 
 My goals have obviously shifted since my teenage years: now my ultimate goal is to work in aerospace in the pursuit of exoplanet colonization. This means I aim to work for a company like [SpaceX](https://en.wikipedia.org/wiki/SpaceX) or even NASA if their Orion project goes well. I am firmly set on this goal of contributing to space exploration. My dream is to be part of the first team to put people on Mars – I cannot think of anything more worthwhile.
