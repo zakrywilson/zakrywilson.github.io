@@ -4,6 +4,15 @@ title: Software
 permalink: /software/
 ---
 
+#### <a href="https://github.com/zakrywilson/TLE">Two line element set library</a>
+A library for parsing, validating, and creating two-line element sets (TLEs) with built-in utilities for manipulating various representations of time.
+
+#### <a href="https://github.com/zakrywilson/systemctl-service-generator">SystemCtl service generator</a>
+Daemon application to handle deployment of services on Linux virtual machines written in Kotlin.
+
+#### <a href="https://github.com/zakrywilson/doomi">To-do list web app</a>
+Lightweight to-do list Python and Flask web app that allows users to create an account and manage check lists.
+
 #### <a href="https://github.com/zakrywilson/key-signature-identifying-neural-network-java">Key signature identifying neural network</a>
 A program that can identify the key signature of a given melody.
 
