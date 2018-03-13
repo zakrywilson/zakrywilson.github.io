@@ -16,11 +16,5 @@ Command line tool that allows for easy creation of command line options and pars
 #### <a href="https://github.com/zakrywilson/multithreaded-recursive-merge-sort">Multithreaded recursive merge sort</a>
 An exercise with pthreads comparing threading with their overhead.
 
-#### <a href="https://github.com/zoewilson/journaler">Journaler</a>
-Small, light-weight application that allows users to log journal entries using markdown formatting which can then be collectively viewed at any time.
-
-#### <a href="https://github.com/zakrywilson/wild-files">Wild files</a>
-Provides quick and easy static methods for destructive file manipulation.
-
 #### <a href="https://github.com/zakrywilson/mvc-demo">Model-View-Controller demonstration</a>
 A simple demonstration of the Model-View-Controller design pattern using Java Swing.
