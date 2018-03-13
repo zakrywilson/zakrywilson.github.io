@@ -19,7 +19,7 @@ A program that can identify the key signature of a given melody.
 #### <a href="https://github.com/zakrywilson/abstractive-summarization">Automatic abstractive summarization</a>
 A system that summarizes news articles.
 
-#### <a href="https://github.com/zakrywilson/command-line">Command Line</a>
+#### <a href="https://github.com/zakrywilson/command-line">Command line tool</a>
 Command line tool that allows for easy creation of command line options and parsing.
 
 #### <a href="https://github.com/zakrywilson/multithreaded-recursive-merge-sort">Multithreaded recursive merge sort</a>
